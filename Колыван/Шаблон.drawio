@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2025-03-25T07:56:45.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" etag="P5CW2dSEErKNwfEm62ob" version="24.2.8" type="device">
+  <diagram id="oO_IZ0t2E6CmBXCo8rvz" name="Страница — 2">
+    <mxGraphModel dx="1158" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BGqrehI-1ElVibS59VwT-1" value="" style="group;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="190" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="BGqrehI-1ElVibS59VwT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="BGqrehI-1ElVibS59VwT-1">
+          <mxGeometry width="479.99999999999994" height="373.71900826446273" as="geometry" />
+        </mxCell>
+        <mxCell id="BGqrehI-1ElVibS59VwT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="BGqrehI-1ElVibS59VwT-1">
+          <mxGeometry y="337.7777777777777" width="480" height="42.222222222222214" as="geometry" />
+        </mxCell>
+        <mxCell id="BGqrehI-1ElVibS59VwT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="BGqrehI-1ElVibS59VwT-1">
+          <mxGeometry x="144" y="337.7777777777777" width="192" height="42.222222222222214" as="geometry" />
+        </mxCell>
+        <mxCell id="BGqrehI-1ElVibS59VwT-5" value="А-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="BGqrehI-1ElVibS59VwT-1">
+          <mxGeometry x="48" y="311.7834573002754" width="144" height="94.21487603305782" as="geometry" />
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-14" value="Бухгалтерская система" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="BGqrehI-1ElVibS59VwT-1">
+          <mxGeometry x="200" y="274.4444444444444" width="95" height="42.222222222222214" as="geometry" />
+        </mxCell>
+        <mxCell id="BGqrehI-1ElVibS59VwT-6" value="&lt;span style=&quot;&quot;&gt;Деятельность компании Quill&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="BGqrehI-1ElVibS59VwT-1">
+          <mxGeometry x="150" y="343.89" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" target="6293XV8i1GzkaZjVp1qh-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="200" as="sourcePoint" />
+            <mxPoint x="490" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" target="6293XV8i1GzkaZjVp1qh-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="520" as="sourcePoint" />
+            <mxPoint x="470" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" target="6293XV8i1GzkaZjVp1qh-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="470" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="6293XV8i1GzkaZjVp1qh-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="440" as="sourcePoint" />
+            <mxPoint x="600" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-11" value="Звонки клиентов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="200" y="369" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-12" value="&lt;font&gt;Проданные компьютеры&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-13" value="Правила и процедуры" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="160" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-15" value="Деятельность компании Quill" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="345" y="344.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6293XV8i1GzkaZjVp1qh-16" value="А0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="440" y="374.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
